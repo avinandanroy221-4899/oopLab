@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment6",
+            "request": "launch",
+            "mainClass": "Assignment6",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1013",
+            "request": "launch",
+            "mainClass": "BEE1013",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1014",
+            "request": "launch",
+            "mainClass": "BEE1014",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1036",
+            "request": "launch",
+            "mainClass": "BEE1036",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1041",
+            "request": "launch",
+            "mainClass": "BEE1041",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1074",
+            "request": "launch",
+            "mainClass": "BEE1074",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1079",
+            "request": "launch",
+            "mainClass": "BEE1079",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1099",
+            "request": "launch",
+            "mainClass": "BEE1099",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1115",
+            "request": "launch",
+            "mainClass": "BEE1115",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1116",
+            "request": "launch",
+            "mainClass": "BEE1116",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BEE1133",
+            "request": "launch",
+            "mainClass": "BEE1133",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateAClass",
+            "request": "launch",
+            "mainClass": "CreateAClass",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataType",
+            "request": "launch",
+            "mainClass": "DataType",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch EveenOddNumber",
+            "request": "launch",
+            "mainClass": "EveenOddNumber",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatSpecifier",
+            "request": "launch",
+            "mainClass": "FormatSpecifier",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowToGetInputFromUser",
+            "request": "launch",
+            "mainClass": "HowToGetInputFromUser",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uri1005",
+            "request": "launch",
+            "mainClass": "Uri1005",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch VowelOrConsonant",
+            "request": "launch",
+            "mainClass": "VowelOrConsonant",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment2",
+            "request": "launch",
+            "mainClass": "assignment2",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment3",
+            "request": "launch",
+            "mainClass": "assignment3",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment4",
+            "request": "launch",
+            "mainClass": "assignment4",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch avi",
+            "request": "launch",
+            "mainClass": "avi",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch bee1021",
+            "request": "launch",
+            "mainClass": "bee1021",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch bee1096",
+            "request": "launch",
+            "mainClass": "bee1096",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch bokachuda",
+            "request": "launch",
+            "mainClass": "bokachuda",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch excercisw1",
+            "request": "launch",
+            "mainClass": "excercisw1",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise",
+            "request": "launch",
+            "mainClass": "exercise",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch practicess",
+            "request": "launch",
+            "mainClass": "practicess",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch roy",
+            "request": "launch",
+            "mainClass": "roy",
+            "projectName": "java_8e789dda"
+        }
+    ]
+}
